@@ -35,4 +35,6 @@ SECTION 4- Misc Keys
 This section will be describing what some random keys will do. 
 The T key will add a new text layer to where your cursor is. = See this in action here - 
 The R key will reverse the clip selected. = See this in action here -
-The 
+The C key will open the multi-cam editor. = See This in action here - 
+The [ key will go back one frame (same as left arrow). = See this in action here - 
+The ] key will go forward one frame (same as right arrow). = See this in action here -
