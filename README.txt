@@ -25,4 +25,14 @@ Here is the link to see this script in action -
 
 SECTION 3- Remapping of controls
 
-For this feature I am remapping some controls. The J, K, and L keys are going to be remapped to Q, W, E. You can use either one when ever you desire.
+For this feature I am remapping some controls. The J, K, and L keys are going to be remapped to Q, W, E. You can use either one whenever you desire. The media keys in the function row will do the same thing as J/Q, K/W, L/E. This will allow for faster editing as you don't have to move your hands to the J, K , and L keys to control playback.
+
+Here is the link to see this script in action -
+
+
+SECTION 4- Misc Keys
+
+This section will be describing what some random keys will do. 
+The T key will add a new text layer to where your cursor is. = See this in action here - 
+The R key will reverse the clip selected. = See this in action here -
+The 
